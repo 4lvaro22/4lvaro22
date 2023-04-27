@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studing software engineering at Malaga University.
 - 🌱 I’m currently learning Python.
 
-![](https://komarev.com/ghpvc/?username=4lvaro22&color=blueviolet&Profile+Views)
+### :eye: Views :  
+![](https://komarev.com/ghpvc/?username=4lvaro22&color=blueviolet&Views)
 
 ### :hammer_and_wrench: Languages and Tools :  
 <div>
