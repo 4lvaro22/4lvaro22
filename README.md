@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :  
-[![4lvaro22's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=4lvaro22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/4lvaro22/github-readme-stats#gh-dark-mode-only)
+[(https://github-readme-stats.vercel.app/api?username=4lvaro22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/4lvaro22/github-readme-stats#gh-dark-mode-only)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark&background=000000)](https://git.io/streak-stats)
 
