@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?user=4lvaro22&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=4lvaro22&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark&background=000000)](https://git.io/streak-stats)
 
