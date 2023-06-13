@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi there 👋
 <!--
 **4lvaro22/4lvaro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-
 - 🔭 I’m currently studing software engineering at Malaga University.
 - 🌱 I’m currently learning Python.
 
-### :eye: Views :  
+## 👁️ Visits
 ![](https://komarev.com/ghpvc/?username=4lvaro22&color=blueviolet&Views)
 
-### :hammer_and_wrench: Languages and Tools :  
+## ⚒️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -37,11 +33,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="intelliJ" **alt="intelliJ" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :  
-![](https://github-readme-stats.vercel.app/api?username=4lvaro22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&background=000000)
+## 🔥 My Stats
+![](https://github-readme-stats.vercel.app/api?username=4lvaro22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 My Trophies
+![](https://github-profile-trophy.vercel.app/?username=4lvaro22&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
