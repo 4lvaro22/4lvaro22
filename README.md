@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&size_weight=0&count_weight=1&langs_count=10&layout=compact&theme=dark)
 
 ## 🏆 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=4lvaro22&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
