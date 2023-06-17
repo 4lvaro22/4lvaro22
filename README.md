@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 </div>
 
 ## 🔥 My Stats
-![](github-readme-stats-ten-lac-35.vercel.app/api?username=4lvaro22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-ten-lac-35.vercel.app/api?username=4lvaro22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](github-readme-stats-ten-lac-35.vercel.app/api/top-langs/username=4lvaro22&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-ten-lac-35.vercel.app/api/top-langs/username=4lvaro22&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark)
 
 ## 🏆 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=4lvaro22&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
