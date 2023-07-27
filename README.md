@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🔥 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&show_icons=true&theme=dark&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4lvaro22&theme=dark)](https://git.io/streak-stats)
 
