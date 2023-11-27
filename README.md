@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studing software engineering at Malaga University.
-- 🌱 I’m currently learning Python.
 
 ## 👁️ Visits
 ![](https://komarev.com/ghpvc/?username=4lvaro22&color=blueviolet&Views)
