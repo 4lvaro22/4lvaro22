@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studing software engineering at Malaga University.
 
-## 👁️ Visits
-![](https://komarev.com/ghpvc/?username=4lvaro22&color=blueviolet&Views)
-
 ## 🔥 My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4lvaro22&show_icons=true&theme=dark&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 
